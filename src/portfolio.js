@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://drive.google.com/file/d/1o5rmD7CbkGiq2dADDgEkOnZtBV8RGwXc/view?usp=sharing",
   portfolio_repository: "https://github.com/JulioCesar1911?tab=repositories",
   githubProfile: "https://github.com/JulioCesar1911",
 };
